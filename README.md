@@ -15,8 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1146115&layout=compact)
+
+
  🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyush1146115)
+ 
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1146115&layout=compact)
 
 ### GitHub Trophy
 
