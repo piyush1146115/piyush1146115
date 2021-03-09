@@ -13,8 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/piyushdas123/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1146115&layout=compact)
-- 🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyush1146115)
+- -->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=piyush1146115&layout=compact)
+ 🎉 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyush1146115)
 
 ### GitHub Trophy
 
@@ -24,4 +26,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=piyush1146115&show_icons=true&theme=dark&locale=en" alt="piyush1146115" /></p>
 
 
--->
+
