@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Dummy bank project](https://github.com/piyush1146115/dummy-bank-golang)
 
-- 🌱 I’m currently learning **Golang, Kubernetes, Microservice, Clean Architecture, and Distributed Systems**
+- 🌱 I’m currently learning **Golang, Rust, Prometheus, Networking, Kubernetes, Microservice, Clean Architecture, and Distributed Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
