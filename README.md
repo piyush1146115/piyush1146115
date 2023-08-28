@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush</h1>
-<h3 align="center">A continuous learner and Software Engineer.</h3>
+<h3 align="center">A continuous learner and a curious mind about Backend, Devops, and Distributed Systems.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush1146115" alt="piyush1146115" /></a> </p>
 
