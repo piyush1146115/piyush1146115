@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush1146115" alt="piyush1146115" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Golang, Rust, Prometheus, Networking, Kubernetes, Microservice, and Distributed Systems**
+- 🌱 I’m currently learning **AWS, Golang, Python, Kubernetes, ML, Prometheus, Networking, OS, and Distributed Systems**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
